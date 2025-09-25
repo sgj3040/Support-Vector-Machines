@@ -1,0 +1,2 @@
+A Support Vector Machine (SVM) is a powerful, supervised machine learning algorithm used for both classification and regression tasks, though it's primarily known for classification.
+The core objective of the SVM algorithm is to find the optimal separating hyperplane that best divides data points into different classes while maximizing the distance (the margin) between the hyperplane and the closest data points of each class.
